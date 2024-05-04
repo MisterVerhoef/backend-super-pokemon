@@ -1,0 +1,15 @@
+
+…
+java:S4165"hRemove this useless assignment; "hydroCanon" already holds the assigned value along all execution paths.(Ή―€€8‘Μ¥όσ1
+‰
+java:S4165	"gRemove this useless assignment; "hydroPump" already holds the assigned value along all execution paths.(Έ„¤Ύϋÿÿÿÿ8“Μ¥όσ1
+^	java:S107"BConstructor has 13 parameters, which is greater than 7 authorized.(ΊΙωΡ8•Μ¥όσ1
+\
+java:S1172"?Remove these unused method parameters "fireBomb", "lavabreath".(ΊΙωΡ8—Μ¥όσ1
+L	java:S106"+Replace this use of System.out by a logger.(¤­€Ηψÿÿÿÿ8›Μ¥όσ1
+L	java:S106#"+Replace this use of System.out by a logger.(Ω‚Μ†όÿÿÿÿ8Μ¥όσ1
+G	java:S106("+Replace this use of System.out by a logger.(ς²Μ¥8Μ¥όσ1
+Q
+java:S1656	"/Remove or correct this useless self-assignment.(Έ„¤Ύϋÿÿÿÿ8Μ¥όσ1
+L
+java:S1656"/Remove or correct this useless self-assignment.(Ή―€€8Μ¥όσ1
